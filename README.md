@@ -2,6 +2,9 @@
 
 > A Vue.js project：使用vue-cli脚手架创建一个基于webpack的todoList项目
 
+## 前提条件
+需要在本地安装好node.js环境
+
 ## 构建步骤
 
 ``` bash
